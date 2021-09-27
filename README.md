@@ -1,18 +1,17 @@
-<h1> Olá! Eu sou o Gabriel Áquila. </h1>
-
-<div>
+## OLÁ! Eu sou o Gabriel Áquila! 
   <a href="https://github.com/GabrielAquila">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielAquila&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAquila&layout=compact&langs_count=7&theme=react" />
-
-
- <br>
-<div  align="center"> 
- 
- <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/GABRIELAQUILA/GABRIELAQUILA/blob/output/github-contribution-grid-snake.svg)
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAquila&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAquila&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GABRIELAQUILA&repo=GABRIELAQUILA&theme=react)](https://github.com/GABRIELAQUILA/GABRI
+<div> 
+  
+  <a href = "mailto:capu.gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-%C3%A1quila-9a2150164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
