@@ -7,6 +7,7 @@ Olá! Eu sou o Gabriel Áquila!😊
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png">
 </div>
   
 <div> 
